@@ -1,0 +1,15 @@
+table{
+    width: 100%;
+}
+
+table thead{
+    background-color: rgb(5, 27, 75);
+    height: 50px;
+}
+
+table th, td{
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+}
+
+
